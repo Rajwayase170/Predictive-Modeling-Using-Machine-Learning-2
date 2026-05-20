@@ -1,0 +1,15 @@
+# Student Marks Prediction Project
+
+## Project Goal
+To predict the final marks of a student based on study hours, attendance, and previous scores.
+
+## How to Run
+1. Install Python.
+2. Run `pip install -r requirements.txt`.
+3. Open terminal in the `scripts` folder.
+4. Run: `python main.py`.
+
+## Results
+- **Regression:** Predicts the exact marks (e.g., 75.5).
+- **Classification:** Predicts if a student will Pass or Fail.
+- **Visuals:** Found in the `/visualizations` folder.
